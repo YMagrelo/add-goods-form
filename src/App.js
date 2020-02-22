@@ -4,6 +4,8 @@ import { colors } from './api/colors';
 import { goods as goodsFromServer } from './api/goods';
 import './App.css';
 
+/// cnhanges
+
 // Hash map
 
 const getColorNameById = colorId => colors
